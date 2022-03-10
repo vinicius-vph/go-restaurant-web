@@ -12,7 +12,7 @@ interface IHeaderProps {
 const Header: React.FC<IHeaderProps> = ({ openModal }) => (
   <Container>
     <header>
-      <img src={Logo} alt="GoRestaurant" />
+      <img src={Logo} alt="Restaurant" />
       <nav>
         <div>
           <button

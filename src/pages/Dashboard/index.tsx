@@ -1,6 +1,8 @@
+/* eslint-disable react/jsx-no-bind */
+/* eslint-disable no-console */
 import React, { useState, useEffect } from 'react';
 
-import { FiFolderPlus } from 'react-icons/fi';
+// import { FiFolderPlus } from 'react-icons/fi';
 import Header from '../../components/Header';
 
 import api from '../../services/api';
